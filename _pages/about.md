@@ -10,23 +10,25 @@ header:
   caption: "Photo credit: [**Ingeheris**](https://ingeheris.com)"
 excerpt: "Lo que hacemos ..."
 intro: 
-  - excerpt: 'La agencia Ingeheris fue fundada inicialmente en 2004 en Burdeos - Francia ofreciendo servicios integrales en Marketing digital y desarrollo web en el cloud, acompañado del posicionamiento SEO y campañas de publicidad SEM adecuadas. Negociantes en vinos, traductores técnicos y muchos otros negocios se beneficiaron de nuestras prestaciones. Ahora la aventura continúa en Valencia y en particular en el Puerto de Sagunto, siguiendo con nuestra misión de apoyar a los negocios locales con soluciones técnicas sencillas pero eficientes.'
+  - excerpt: '**La agencia Ingeheris** fue fundada inicialmente en **2004** en Burdeos - Francia, ofreciendo servicios integrales en **Marketing digital** y **desarrollo web en el cloud**, acompañado del posicionamiento **SEO** y campañas de publicidad **SEM** adecuadas. Negociantes en vinos, traductores técnicos y muchos otros negocios se beneficiaron de nuestras prestaciones. Ahora la aventura continúa en **Valencia** y en particular en el **Puerto de Sagunto**, siguiendo con nuestra misión de apoyar a los negocios locales con soluciones técnicas sencillas pero eficientes.'
 feature_row:
   - image_path: assets/images/ipad.jpg
+    image_caption: "Photo credit: [**Ingeheris**](https://ingeheris.com)"
     alt: "Marketing Digital"
     title: "Marketing Digital"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/ipad.jpg
+    excerpt: "**¿Para qué sirven todos tus esfuerzos si nadie te ve?** Para eso esta el Marketing Digital y en esto te podemos echar una mano."
+  - image_path: /assets/images/bg-signup.jpg
     image_caption: "Photo credit: [**Ingeheris**](https://ingeheris.com)"
     alt: "Desarrollo web"
     title: "Desarrollo web"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
+    excerpt: "Llevamos 20 años con el desarrollo de aplicaciones web. **ASP.Net Core** y otras tecnologías Microsoft son nuestros amigos. Sin olvidar a nuestros compañeros **Ruby on Rails y PHP**"
+    url: "https://ingeheris.com"
+    btn_label: "Saber más"
     btn_class: "btn--primary"
-  - image_path: /assets/images/ipad.jpg
+  - image_path: /assets/images/project-2.jpg
+    image_caption: "Photo credit: [**Ingeheris**](https://ingeheris.com)"
     title: "Digitalizacion de Negocios"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "**PowerApps y Power Automate** pueden hacer milagros com la digitalizacion de los procesos de tu empresa, sin hablar de **Teams y Microsoft 365**. No creas que es algo de multinacionales. Podemos compartir contigo soluciones pragmaticas que te podran sorprender por su eficiencia."
 ---
 
 {% include feature_row id="intro" type="center" %}
