@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "es-ES"
 title                    : "Blog Ingeheris"
 title_separator          : "-"
-subtitle                 : "Marketing Digital y Desarrollo web"# site tagline that appears below site title in masthead
+subtitle                 : "Marketing Digital y Desarrollo web."# site tagline that appears below site title in masthead
 name                     : "Alan Kleber"
 description              : "Blog tecnologico de la agencia digital Ingeheris."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
