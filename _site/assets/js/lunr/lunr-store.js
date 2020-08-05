@@ -1,7 +1,7 @@
 var store = [{
-        "title": "Bienvenidos en mi blog.",
-        "excerpt":"¡Hola a todos! You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates...","categories": ["Marketing"],
+        "title": "Comercio local VS Comercio electrónico",
+        "excerpt":"Hoy me gustaría hablar de una problemática que afecta a muchas personas en la actualidad. Esta semana no he dejado de escuchar como los pequeños comercios están cerrando (algunos con la intención de que, cuando la situación mejore, puedan reabrir y otros, por desgracia, cerrarán definitivamente). La historia del pequeño...","categories": ["Marketing"],
         "tags": [],
-        "url": "http://localhost:4000/marketing/welcome/",
+        "url": "http://localhost:4000/marketing/comercio-local-vs-comercio-electronico/",
         "teaser": "http://localhost:4000/assets/images/bg-masthead.jpg"
       }]
