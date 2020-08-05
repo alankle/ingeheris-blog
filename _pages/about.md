@@ -21,14 +21,14 @@ feature_row:
     image_caption: "Photo credit: [**Ingeheris**](https://ingeheris.com)"
     alt: "Desarrollo web"
     title: "Desarrollo web"
-    excerpt: "Llevamos 20 años con el desarrollo de aplicaciones web. **ASP.Net Core** y otras tecnologías Microsoft son nuestros amigos. Sin olvidar a nuestros compañeros **Ruby on Rails y PHP**"
+    excerpt: "Llevamos 20 años con el desarrollo de aplicaciones web. [**ASP.Net Core**](https://dotnet.microsoft.com/learn/aspnet/what-is-aspnet-core){:target="_blank"} y otras tecnologías Microsoft son nuestros amigos. Sin olvidar a nuestros compañeros **Ruby on Rails y PHP**"
     url: "https://ingeheris.com"
     btn_label: "Saber más"
     btn_class: "btn--primary"
   - image_path: /assets/images/project-2.jpg
     image_caption: "Photo credit: [**Ingeheris**](https://ingeheris.com)"
     title: "Digitalizacion de Negocios"
-    excerpt: "**PowerApps y Power Automate** pueden hacer milagros com la digitalizacion de los procesos de tu empresa, sin hablar de **Teams y Microsoft 365**. No creas que es algo de multinacionales. Podemos compartir contigo soluciones pragmaticas que te podran sorprender por su eficiencia."
+    excerpt: "[**PowerApps y Power Automate**](https://powerapps.microsoft.com/es-es/){:target="_blank"} pueden hacer milagros com la digitalizacion de los procesos de tu empresa, sin hablar de [**Teams y Microsoft 365**](https://www.microsoft.com/es-es/microsoft-365){:target="_blank"}. No creas que es algo de multinacionales. Podemos compartir contigo soluciones pragmaticas que te podran sorprender por su eficiencia."
 ---
 
 {% include feature_row id="intro" type="center" %}
